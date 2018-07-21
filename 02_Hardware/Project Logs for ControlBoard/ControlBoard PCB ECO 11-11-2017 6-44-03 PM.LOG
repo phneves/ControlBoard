@@ -1,0 +1,30 @@
+Added Component: Designator=C29(ELECTRO-SMD-C-6MM)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "MPN"; Value = "CS1E470M-CRE54"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "value"; Value = "47UF-25V"; VariantName = "[No Variations]"
+Added Component: Designator=C37(ELECTRO-SMD-C-6MM)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "MPN"; Value = "CS1E470M-CRE54"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "value"; Value = "47UF-25V"; VariantName = "[No Variations]"
+Added Component: Designator=C45(ELECTRO-SMD-C-6MM)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "MPN"; Value = "CS1E470M-CRE54"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "value"; Value = "47UF-25V"; VariantName = "[No Variations]"
+Added Component: Designator=CN?(H6-2.54)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "MPN"; Value = "F185-1106A1BSYC1"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=C29-+
+Added Pin To Net: NetName=GND Pin=C29--
+Added Pin To Net: NetName=+5V Pin=C37-+
+Added Pin To Net: NetName=GND Pin=C37--
+Added Pin To Net: NetName=+3.3V Pin=C45-+
+Added Pin To Net: NetName=GND Pin=C45--
+Added Pin To Net: NetName=RESET Pin=CN?-1
+Added Pin To Net: NetName=+3.3V Pin=CN?-2
+Added Pin To Net: NetName=GND Pin=CN?-3
+Added Pin To Net: NetName=PGD3 Pin=CN?-4
+Added Pin To Net: NetName=PGC3 Pin=CN?-5
+Added Member To Class: ClassName=Power Member=Component C29 302030059
+Added Member To Class: ClassName=Power Member=Component C37 302030059
+Added Member To Class: ClassName=Power Member=Component C45 302030059
+Added Member To Class: ClassName=uC Member=Component CN? 320030060

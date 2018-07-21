@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=SENSE.D Pin=R22-2
+Removed Pin From Net: NetName=SENSE.C Pin=R31-1
+Added Pin To Net: NetName=SENSE.C Pin=R22-2
+Added Pin To Net: NetName=SENSE.D Pin=R31-1

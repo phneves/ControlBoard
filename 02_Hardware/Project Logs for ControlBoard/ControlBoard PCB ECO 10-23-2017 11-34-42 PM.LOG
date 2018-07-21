@@ -1,0 +1,107 @@
+Change Component Comment : Designator=C10 Old Comment=302020002 New Comment=302020006
+Change component parameters: Designator = "C10"; Footprint = "AVX-A"; UniqueID = "\NMQNJRNJ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "MPN"; Value = "TAJA475*016#NJ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "4.7UF-16V"; VariantName = "[No Variations]"
+Added Component: Designator=C11(C0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "MPN"; Value = "CC0603KRX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "value"; Value = "100NF-50V"; VariantName = "[No Variations]"
+Added Component: Designator=C12(C0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "MPN"; Value = "CC0603KRX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "value"; Value = "100NF-50V"; VariantName = "[No Variations]"
+Added Component: Designator=C13(C0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "MPN"; Value = "CC0603KRX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "value"; Value = "100NF-50V"; VariantName = "[No Variations]"
+Added Component: Designator=C14(C0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "MPN"; Value = "CC0603KRX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "value"; Value = "100NF-50V"; VariantName = "[No Variations]"
+Added Component: Designator=C15(C0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "MPN"; Value = "CC0603KRX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "value"; Value = "100NF-50V"; VariantName = "[No Variations]"
+Added Component: Designator=C16(C0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "MPN"; Value = "CC0603KRX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "value"; Value = "100NF-50V"; VariantName = "[No Variations]"
+Added Component: Designator=U3(TQFP-44)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "FLASH Memory Size"; Value = "131072 B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead-Free Status"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "44"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart Url"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RAM Memory Size"; Value = "16384 B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC Compliance"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3.3V Pin=C11-1
+Added Pin To Net: NetName=GND Pin=C11-2
+Added Pin To Net: NetName=+3.3V Pin=C12-1
+Added Pin To Net: NetName=GND Pin=C12-2
+Added Pin To Net: NetName=+3.3V Pin=C13-1
+Added Pin To Net: NetName=GND Pin=C13-2
+Added Pin To Net: NetName=+3.3V Pin=C14-1
+Added Pin To Net: NetName=GND Pin=C14-2
+Added Pin To Net: NetName=+3.3V Pin=C15-1
+Added Pin To Net: NetName=GND Pin=C15-2
+Added Pin To Net: NetName=+3.3V Pin=C16-1
+Added Pin To Net: NetName=GND Pin=C16-2
+Added Pin To Net: NetName=NetR25_1 Pin=U3-1
+Added Pin To Net: NetName=NetR30_2 Pin=U3-2
+Added Pin To Net: NetName=NetR32_2 Pin=U3-3
+Added Pin To Net: NetName=NetR34_2 Pin=U3-4
+Added Pin To Net: NetName=NetR36_2 Pin=U3-5
+Added Pin To Net: NetName=GND Pin=U3-6
+Added Pin To Net: NetName=NetC10_+ Pin=U3-7
+Added Pin To Net: NetName=NetR27_1 Pin=U3-8
+Added Pin To Net: NetName=NetR29_1 Pin=U3-9
+Added Pin To Net: NetName=NetR31_1 Pin=U3-10
+Added Pin To Net: NetName=NetR33_1 Pin=U3-11
+Added Pin To Net: NetName=NetR9_1 Pin=U3-12
+Added Pin To Net: NetName=NetR6_1 Pin=U3-13
+Added Pin To Net: NetName=NetR35_1 Pin=U3-14
+Added Pin To Net: NetName=NetR37_1 Pin=U3-15
+Added Pin To Net: NetName=GND Pin=U3-16
+Added Pin To Net: NetName=+3.3V Pin=U3-17
+Added Pin To Net: NetName=RESET Pin=U3-18
+Added Pin To Net: NetName=NetR3_1 Pin=U3-19
+Added Pin To Net: NetName=NetR4_1 Pin=U3-20
+Added Pin To Net: NetName=NetR10_1 Pin=U3-21
+Added Pin To Net: NetName=NetR11_1 Pin=U3-22
+Added Pin To Net: NetName=NetR12_1 Pin=U3-23
+Added Pin To Net: NetName=NetR13_1 Pin=U3-24
+Added Pin To Net: NetName=NetR16_2 Pin=U3-25
+Added Pin To Net: NetName=NetR18_2 Pin=U3-26
+Added Pin To Net: NetName=NetR21_2 Pin=U3-27
+Added Pin To Net: NetName=+3.3V Pin=U3-28
+Added Pin To Net: NetName=GND Pin=U3-29
+Added Pin To Net: NetName=OSC1 Pin=U3-30
+Added Pin To Net: NetName=OSC2 Pin=U3-31
+Added Pin To Net: NetName=NetR7_1 Pin=U3-32
+Added Pin To Net: NetName=NetR14_1 Pin=U3-33
+Added Pin To Net: NetName=NetR5_1 Pin=U3-34
+Added Pin To Net: NetName=NetR8_1 Pin=U3-35
+Added Pin To Net: NetName=NetR24_2 Pin=U3-36
+Added Pin To Net: NetName=NetR26_2 Pin=U3-37
+Added Pin To Net: NetName=NetR28_2 Pin=U3-38
+Added Pin To Net: NetName=GND Pin=U3-39
+Added Pin To Net: NetName=+3.3V Pin=U3-40
+Added Pin To Net: NetName=NetR15_1 Pin=U3-41
+Added Pin To Net: NetName=NetR17_1 Pin=U3-42
+Added Pin To Net: NetName=NetR19_1 Pin=U3-43
+Added Pin To Net: NetName=NetR22_1 Pin=U3-44
+Added Member To Class: ClassName=[5] - MICROCONTROLLER Member=Component C11 302010138
+Added Member To Class: ClassName=[5] - MICROCONTROLLER Member=Component C12 302010138
+Added Member To Class: ClassName=[5] - MICROCONTROLLER Member=Component C13 302010138
+Added Member To Class: ClassName=[5] - MICROCONTROLLER Member=Component C14 302010138
+Added Member To Class: ClassName=[5] - MICROCONTROLLER Member=Component C15 302010138
+Added Member To Class: ClassName=[5] - MICROCONTROLLER Member=Component C16 302010138
+Added Member To Class: ClassName=[5] - MICROCONTROLLER Member=Component U3 DSPIC33FJ128MC804-I/PT
+Added Room: Name=[3] - CONNECTIVITY
+Added Room: Name=[4] - DRIVERS
+Added Room: Name=[5] - MICROCONTROLLER

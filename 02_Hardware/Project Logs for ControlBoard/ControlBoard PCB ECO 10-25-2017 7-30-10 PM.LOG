@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=NetC17_1 Pin=SW1-1
+Removed Pin From Net: NetName=NetC17_1 Pin=SW1-2
+Removed Pin From Net: NetName=GND Pin=SW1-3
+Removed Pin From Net: NetName=GND Pin=SW1-4
+Removed Member From Class: ClassName=[5] - MICROCONTROLLER Member=SW1
+Added Component: Designator=SW?(SW4-SMD-5.2X5.2X1.5MM)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "MPN"; Value = "SKQGADE010"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC17_1 Pin=SW?-1
+Added Pin To Net: NetName=NetC17_1 Pin=SW?-2
+Added Pin To Net: NetName=GND Pin=SW?-3
+Added Pin To Net: NetName=GND Pin=SW?-4
+Added Member To Class: ClassName=[5] - MICROCONTROLLER Member=Component SW? 311020017

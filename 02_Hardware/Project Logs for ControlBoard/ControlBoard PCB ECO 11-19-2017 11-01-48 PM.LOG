@@ -1,0 +1,51 @@
+Removed Pin From Net: NetName=OUTB.1 Pin=J1-1
+Removed Pin From Net: NetName=OUTB.2 Pin=J1-2
+Removed Pin From Net: NetName=OUTD.1 Pin=J4-1
+Removed Pin From Net: NetName=OUTD.2 Pin=J4-2
+Change component parameters: Designator = "C32"; Footprint = "C0603"; UniqueID = "\XHTNRTYM\AFNCHCKV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "MPN"; Value = "CC0603KRX7R9BB104"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "100NF-50V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C33"; Footprint = "C0603"; UniqueID = "\XHTNRTYM\JEUBYFXH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "MPN"; Value = "CC0603KRX7R9BB104"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "100NF-50V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C38"; Footprint = "C0603"; UniqueID = "\XHTNRTYM\MFAGPVYW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "MPN"; Value = "CC0603KRX7R9BB104"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "100NF-50V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C39"; Footprint = "C0603"; UniqueID = "\XHTNRTYM\VTNATRRB"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "MPN"; Value = "CC0603KRX7R9BB104"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "100NF-50V"; VariantName = "[No Variations]"
+Added Component: Designator=CN2(H6-2.54)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "MPN"; Value = "F185-1106A1BSYC1"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetCN2_1 Pin=CN2-1
+Added Pin To Net: NetName=GND Pin=CN2-2
+Added Pin To Net: NetName=OUTA.1 Pin=CN2-5
+Added Pin To Net: NetName=OUTA.2 Pin=CN2-6
+Added Pin To Net: NetName=OUTB.2 Pin=J1-1
+Added Pin To Net: NetName=OUTB.1 Pin=J1-2
+Added Pin To Net: NetName=OUTD.2 Pin=J4-1
+Added Pin To Net: NetName=OUTD.1 Pin=J4-2
+Change Net Name : Old Net Name=PWMA.1 New Net Name=uC.PWMA.1
+Change Net Name : Old Net Name=PWMA.2 New Net Name=uC.PWMA.2
+Change Net Name : Old Net Name=PWMB.1 New Net Name=uC.PWMB.1
+Change Net Name : Old Net Name=PWMB.2 New Net Name=uC.PWMB.2
+Change Net Name : Old Net Name=PWMC.1 New Net Name=uC.PWMC.1
+Change Net Name : Old Net Name=PWMC.2 New Net Name=uC.PWMC.2
+Change Net Name : Old Net Name=PWMD.1 New Net Name=uC.PWMD.1
+Change Net Name : Old Net Name=PWMD.2 New Net Name=uC.PWMD.2
+Added Pin To Net: NetName=NetCN2_3 Pin=CN2-3
+Added Pin To Net: NetName=NetCN2_3 Pin=R80-1
+Added Net: Name=NetCN2_3
+Added Pin To Net: NetName=NetCN2_4 Pin=CN2-4
+Added Pin To Net: NetName=NetCN2_4 Pin=R83-1
+Added Net: Name=NetCN2_4
+Change Class Name : Old Net Name=Cover New Net Name=[1] - CONTROL BOARD
+Added Member To Class: ClassName=Driver Member=Component CN2 320030060
+Added Member To Class: ClassName=Power Member=Component L2 303010016
+Added Room: Name=[1] - CONTROL BOARD
+Added Room: Name=Communications
+Added Room: Name=USB

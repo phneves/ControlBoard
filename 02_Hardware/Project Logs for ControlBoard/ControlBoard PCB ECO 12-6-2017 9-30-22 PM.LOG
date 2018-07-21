@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=SPI.MOSI Pin=R36-1
+Removed Pin From Net: NetName=SPI.CLK Pin=R38-1
+Added Pin To Net: NetName=SPI.CLK Pin=R36-1
+Added Pin To Net: NetName=SPI.MOSI Pin=R38-1

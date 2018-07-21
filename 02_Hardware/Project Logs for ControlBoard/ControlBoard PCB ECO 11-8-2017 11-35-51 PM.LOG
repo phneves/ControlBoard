@@ -1,0 +1,18 @@
+Removed Member From Class: ClassName=Designator Member=C47
+Removed Member From Class: ClassName=Designator Member=C48
+Added Component: Designator=DC1(3P-L14.2*W11.0*H9.0MM)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW1(SW4-SMD-5.2X5.2X1.5MM)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "MPN"; Value = "SKQGADE010"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD19_+ Pin=DC1-+
+Added Pin To Net: NetName=GND Pin=DC1--1
+Added Pin To Net: NetName=GND Pin=DC1--2
+Added Pin To Net: NetName=NetC20_1 Pin=SW1-1
+Added Pin To Net: NetName=NetC20_1 Pin=SW1-2
+Added Pin To Net: NetName=GND Pin=SW1-3
+Added Pin To Net: NetName=GND Pin=SW1-4
+Added Member To Class: ClassName=Designator Member=Component DC1 320120003
+Added Member To Class: ClassName=uC Member=Component SW1 311020017
+Added Room: Name=Cover
+Added Room: Name=Designator

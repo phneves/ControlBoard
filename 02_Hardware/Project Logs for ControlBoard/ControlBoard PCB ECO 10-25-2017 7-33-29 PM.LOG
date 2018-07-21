@@ -1,0 +1,36 @@
+Added Component: Designator=C?(C0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "MPN"; Value = "CC0603JRNPO9BN270"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "value"; Value = "27PF-50V"; VariantName = "[No Variations]"
+Added Component: Designator=C?(C0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "MPN"; Value = "CC0603JRNPO9BN270"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "value"; Value = "27PF-50V"; VariantName = "[No Variations]"
+Added Component: Designator=SW?(SW4-SMD-5.2X5.2X1.5MM)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "MPN"; Value = "SKQGADE010"; VariantName = "[No Variations]"
+Added Component: Designator=Y1(X2-SMD-5.0X3.2X1.3MM)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "MPN"; Value = "X053201602002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "value"; Value = "16MHz"; VariantName = "[No Variations]"
+Added Component: Designator=Y2(HC49US)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "MPN"; Value = "HC-49US    16.000MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "value"; Value = "16 MHz"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=OSC1 Pin=C?-1
+Added Pin To Net: NetName=OSC2 Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=NetC17_1 Pin=SW?-1
+Added Pin To Net: NetName=NetC17_1 Pin=SW?-2
+Added Pin To Net: NetName=GND Pin=SW?-3
+Added Pin To Net: NetName=GND Pin=SW?-4
+Added Pin To Net: NetName=OSC2 Pin=Y1-1
+Added Pin To Net: NetName=OSC1 Pin=Y1-2
+Added Pin To Net: NetName=OSC2 Pin=Y2-1
+Added Pin To Net: NetName=OSC1 Pin=Y2-2
+Added Member To Class: ClassName=[5] - MICROCONTROLLER Member=Component C? 302010142
+Added Member To Class: ClassName=[5] - MICROCONTROLLER Member=Component C? 302010142
+Added Member To Class: ClassName=[5] - MICROCONTROLLER Member=Component SW? 311020017
+Added Member To Class: ClassName=[5] - MICROCONTROLLER Member=Component Y1 306010054
+Added Member To Class: ClassName=[5] - MICROCONTROLLER Member=Component Y2 306010014

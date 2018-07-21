@@ -1,0 +1,52 @@
+Removed Pin From Net: NetName=NetJ5_1 Pin=R87-2
+Removed Pin From Net: NetName=NetCN5_1 Pin=R89-2
+Removed Pin From Net: NetName=NetJ5_1 Pin=R91-2
+Removed Pin From Net: NetName=NetJ5_6 Pin=R92-1
+Removed Pin From Net: NetName=NetCN5_1 Pin=R93-2
+Removed Pin From Net: NetName=NetCN5_6 Pin=R94-1
+Removed Pin From Net: NetName=NetJ5_5 Pin=R95-1
+Removed Pin From Net: NetName=NetCN5_5 Pin=R96-1
+Change component parameters: Designator = "C32"; Footprint = "C0603"; UniqueID = "\XHTNRTYM\AFNCHCKV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "MPN"; Value = "CC0603KRX7R9BB104"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "CERAMIC-100NF-50V-10%-X7R(0603)"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C33"; Footprint = "C0603"; UniqueID = "\XHTNRTYM\JEUBYFXH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "MPN"; Value = "CC0603KRX7R9BB104"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "CERAMIC-100NF-50V-10%-X7R(0603)"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C38"; Footprint = "C0603"; UniqueID = "\XHTNRTYM\MFAGPVYW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "MPN"; Value = "CC0603KRX7R9BB104"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "CERAMIC-100NF-50V-10%-X7R(0603)"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C39"; Footprint = "C0603"; UniqueID = "\XHTNRTYM\VTNATRRB"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "MPN"; Value = "CC0603KRX7R9BB104"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "CERAMIC-100NF-50V-10%-X7R(0603)"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R101"; Footprint = "R0603"; UniqueID = "\XHTNRTYM\IOLWKPYF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "MPN"; Value = "RC0603FR-0710KL"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R102"; Footprint = "R0603"; UniqueID = "\XHTNRTYM\HGMAMDBO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "MPN"; Value = "RC0603FR-0710KL"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R103"; Footprint = "R0603"; UniqueID = "\XHTNRTYM\UKBHJNKB"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "MPN"; Value = "RC0603FR-0710KL"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R104"; Footprint = "R0603"; UniqueID = "\XHTNRTYM\OBBKVXOR"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "MPN"; Value = "RC0603FR-0710KL"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetCN5_1 Pin=R87-2
+Added Pin To Net: NetName=NetJ5_1 Pin=R89-2
+Added Pin To Net: NetName=NetCN5_1 Pin=R91-2
+Added Pin To Net: NetName=NetCN5_6 Pin=R92-1
+Added Pin To Net: NetName=NetJ5_1 Pin=R93-2
+Added Pin To Net: NetName=NetJ5_6 Pin=R94-1
+Added Pin To Net: NetName=NetCN5_5 Pin=R95-1
+Added Pin To Net: NetName=NetJ5_5 Pin=R96-1
+Change Net Name : Old Net Name=NetCN8_1 New Net Name=NetCN9_1
+Change Net Name : Old Net Name=NetCN8_6 New Net Name=NetCN9_6
+Change Net Name : Old Net Name=NetJ5_1 New Net Name=NetCN8_1
+Change Net Name : Old Net Name=NetJ5_5 New Net Name=NetCN8_5
+Change Net Name : Old Net Name=NetJ5_6 New Net Name=NetCN8_6
+Added Room: Name=Communications
+Added Room: Name=Cover
+Added Room: Name=USB

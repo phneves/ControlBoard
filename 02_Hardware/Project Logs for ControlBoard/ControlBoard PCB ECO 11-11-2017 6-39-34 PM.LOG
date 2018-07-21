@@ -1,0 +1,20 @@
+Added Component: Designator=J1(H2-3.5-7.0X7.0MM)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J2(H2-3.5-7.0X7.0MM)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J3(H2-3.5-7.0X7.0MM)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J4(H2-3.5-7.0X7.0MM)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=OUTB.1 Pin=J1-1
+Added Pin To Net: NetName=OUTB.2 Pin=J1-2
+Added Pin To Net: NetName=OUTA.2 Pin=J2-1
+Added Pin To Net: NetName=OUTA.1 Pin=J2-2
+Added Pin To Net: NetName=OUTC.2 Pin=J3-1
+Added Pin To Net: NetName=OUTC.1 Pin=J3-2
+Added Pin To Net: NetName=OUTD.1 Pin=J4-1
+Added Pin To Net: NetName=OUTD.2 Pin=J4-2
+Added Member To Class: ClassName=Driver Member=Component J1 320110028
+Added Member To Class: ClassName=Driver Member=Component J2 320110028
+Added Member To Class: ClassName=Driver Member=Component J3 320110028
+Added Member To Class: ClassName=Driver Member=Component J4 320110028

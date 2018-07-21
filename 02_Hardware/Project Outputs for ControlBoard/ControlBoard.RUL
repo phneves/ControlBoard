@@ -1,0 +1,6 @@
+DRC Rules Export File for PCB: C:\Users\pneves\Documents\Gear Labs\04_Projects\03_ControlBoard\trunk\02_Hardware\01_Sources\ControlBoard.PcbDoc
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion_via|Scope=Board|Minimum=-99.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=10.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

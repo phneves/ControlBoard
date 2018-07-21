@@ -1,0 +1,220 @@
+Change Component Comment : Designator=R3 Old Comment=0R New Comment=301010292
+Change Component Comment : Designator=R4 Old Comment=0R New Comment=301010292
+Change Component Comment : Designator=R5 Old Comment=0R New Comment=301010292
+Change Component Comment : Designator=R6 Old Comment=0R New Comment=301010292
+Change Component Comment : Designator=R7 Old Comment=0R New Comment=301010292
+Change Component Comment : Designator=R8 Old Comment=0R New Comment=301010292
+Change Component Comment : Designator=R9 Old Comment=0R New Comment=301010292
+Change Component Comment : Designator=R10 Old Comment=0R New Comment=301010292
+Change Component Comment : Designator=R11 Old Comment=0R New Comment=301010292
+Change Component Comment : Designator=R12 Old Comment=0R New Comment=301010292
+Change Component Comment : Designator=R13 Old Comment=0R New Comment=301010292
+Change Component Comment : Designator=R14 Old Comment=0R New Comment=301010292
+Change Component Comment : Designator=R15 Old Comment=0R New Comment=301010292
+Change Component Comment : Designator=R16 Old Comment=0R New Comment=301010292
+Change Component Comment : Designator=R17 Old Comment=0R New Comment=301010292
+Change Component Comment : Designator=R18 Old Comment=0R New Comment=301010292
+Change Component Comment : Designator=R19 Old Comment=0R New Comment=301010292
+Change Component Comment : Designator=R21 Old Comment=0R New Comment=301010292
+Change Component Comment : Designator=R22 Old Comment=0R New Comment=301010292
+Change Component Comment : Designator=R24 Old Comment=0R New Comment=301010292
+Change Component Comment : Designator=R25 Old Comment=0R New Comment=301010292
+Change Component Comment : Designator=R26 Old Comment=0R New Comment=301010292
+Change Component Comment : Designator=R27 Old Comment=0R New Comment=301010292
+Change Component Comment : Designator=R28 Old Comment=0R New Comment=301010292
+Change Component Comment : Designator=R29 Old Comment=0R New Comment=301010292
+Change Component Comment : Designator=R30 Old Comment=0R New Comment=301010292
+Change Component Comment : Designator=R31 Old Comment=0R New Comment=301010292
+Change Component Comment : Designator=R32 Old Comment=0R New Comment=301010292
+Change Component Comment : Designator=R33 Old Comment=0R New Comment=301010292
+Change Component Comment : Designator=R34 Old Comment=0R New Comment=301010292
+Change Component Comment : Designator=R35 Old Comment=0R New Comment=301010292
+Change Component Comment : Designator=R36 Old Comment=0R New Comment=301010292
+Change Component Comment : Designator=R37 Old Comment=0R New Comment=301010292
+Change component parameters: Designator = "R3"; Footprint = "R0603"; UniqueID = "\TKBXJJIF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "MPN"; Value = "RC0603JR-070RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "0R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R4"; Footprint = "R0603"; UniqueID = "\SXLBPQUI"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "MPN"; Value = "RC0603JR-070RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "0R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R5"; Footprint = "R0603"; UniqueID = "\XTIYDKTA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "MPN"; Value = "RC0603JR-070RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "0R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R6"; Footprint = "R0603"; UniqueID = "\FWVOQLGK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "MPN"; Value = "RC0603JR-070RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "0R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R7"; Footprint = "R0603"; UniqueID = "\PPKDFVNU"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "MPN"; Value = "RC0603JR-070RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "0R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R8"; Footprint = "R0603"; UniqueID = "\KLUABWBU"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "MPN"; Value = "RC0603JR-070RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "0R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R9"; Footprint = "R0603"; UniqueID = "\EGWARDQG"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "MPN"; Value = "RC0603JR-070RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "0R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R10"; Footprint = "R0603"; UniqueID = "\EYFFRSHE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "MPN"; Value = "RC0603JR-070RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "0R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R11"; Footprint = "R0603"; UniqueID = "\STPDHKEN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "MPN"; Value = "RC0603JR-070RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "0R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R12"; Footprint = "R0603"; UniqueID = "\TYWAWKHH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "MPN"; Value = "RC0603JR-070RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "0R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R13"; Footprint = "R0603"; UniqueID = "\QGCJUIXO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "MPN"; Value = "RC0603JR-070RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "0R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R14"; Footprint = "R0603"; UniqueID = "\NIEVVBNU"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "MPN"; Value = "RC0603JR-070RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "0R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R15"; Footprint = "R0603"; UniqueID = "\BDYKFAQF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "MPN"; Value = "RC0603JR-070RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "0R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R16"; Footprint = "R0603"; UniqueID = "\ELDIMSRT"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "MPN"; Value = "RC0603JR-070RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "0R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R17"; Footprint = "R0603"; UniqueID = "\VCMBHIUI"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "MPN"; Value = "RC0603JR-070RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "0R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R18"; Footprint = "R0603"; UniqueID = "\ESNFCKBC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "MPN"; Value = "RC0603JR-070RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "0R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R19"; Footprint = "R0603"; UniqueID = "\FYPELLVF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "MPN"; Value = "RC0603JR-070RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "0R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R21"; Footprint = "R0603"; UniqueID = "\VRRROXRL"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "MPN"; Value = "RC0603JR-070RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "0R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R22"; Footprint = "R0603"; UniqueID = "\MGBIYQJK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "MPN"; Value = "RC0603JR-070RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "0R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R24"; Footprint = "R0603"; UniqueID = "\YXINMBBU"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "MPN"; Value = "RC0603JR-070RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "0R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R25"; Footprint = "R0603"; UniqueID = "\EUSEKLBV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "MPN"; Value = "RC0603JR-070RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "0R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R26"; Footprint = "R0603"; UniqueID = "\VMFTVWGL"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "MPN"; Value = "RC0603JR-070RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "0R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R27"; Footprint = "R0603"; UniqueID = "\DPVPMRYN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "MPN"; Value = "RC0603JR-070RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "0R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R28"; Footprint = "R0603"; UniqueID = "\IGDQSMIX"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "MPN"; Value = "RC0603JR-070RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "0R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R29"; Footprint = "R0603"; UniqueID = "\KYUXFLJV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "MPN"; Value = "RC0603JR-070RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "0R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R30"; Footprint = "R0603"; UniqueID = "\HFGBWRJI"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "MPN"; Value = "RC0603JR-070RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "0R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R31"; Footprint = "R0603"; UniqueID = "\HLINVYUK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "MPN"; Value = "RC0603JR-070RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "0R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R32"; Footprint = "R0603"; UniqueID = "\SSBGIMPX"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "MPN"; Value = "RC0603JR-070RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "0R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R33"; Footprint = "R0603"; UniqueID = "\ITJDXWAB"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "MPN"; Value = "RC0603JR-070RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "0R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R34"; Footprint = "R0603"; UniqueID = "\YGERIHOK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "MPN"; Value = "RC0603JR-070RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "0R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R35"; Footprint = "R0603"; UniqueID = "\JADRFXAU"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "MPN"; Value = "RC0603JR-070RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "0R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R36"; Footprint = "R0603"; UniqueID = "\PPOAKNBN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "MPN"; Value = "RC0603JR-070RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "0R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R37"; Footprint = "R0603"; UniqueID = "\LMYKQEBC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "MPN"; Value = "RC0603JR-070RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "0R"; VariantName = "[No Variations]"
+Added Component: Designator=C17(C0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "MPN"; Value = "CC0603KRX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "value"; Value = "100NF-50V"; VariantName = "[No Variations]"
+Added Component: Designator=R20(R0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "MPN"; Value = "RC0603FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R23(R0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "MPN"; Value = "RC0603JR-07470RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "value"; Value = "470R"; VariantName = "[No Variations]"
+Added Component: Designator=SW1(SW4-SMD-5.2X5.2X1.5MM)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "MPN"; Value = "SKQGADE010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "value"; Value = "SKQGADE010"; VariantName = "[No Variations]"
+Added Component: Designator=Y1(X2-SMD-5.0X3.2X1.3MM)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "MPN"; Value = "X053201602002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "value"; Value = "16MHz"; VariantName = "[No Variations]"
+Added Component: Designator=Y2(HC49US)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "MPN"; Value = "HC-49US    16.000MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "value"; Value = "16 MHz"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC17_1 Pin=C17-1
+Added Pin To Net: NetName=GND Pin=C17-2
+Added Pin To Net: NetName=NetC17_1 Pin=R20-1
+Added Pin To Net: NetName=+3.3V Pin=R20-2
+Added Pin To Net: NetName=RESET Pin=R23-1
+Added Pin To Net: NetName=NetC17_1 Pin=R23-2
+Added Pin To Net: NetName=NetC17_1 Pin=SW1-1
+Added Pin To Net: NetName=NetC17_1 Pin=SW1-2
+Added Pin To Net: NetName=GND Pin=SW1-3
+Added Pin To Net: NetName=GND Pin=SW1-4
+Added Pin To Net: NetName=OSC2 Pin=Y1-1
+Added Pin To Net: NetName=XC1 Pin=Y1-1
+Added Pin To Net: NetName=GND Pin=Y1-2
+Added Pin To Net: NetName=OSC1 Pin=Y1-2
+Added Pin To Net: NetName=OSC2 Pin=Y2-1
+Added Pin To Net: NetName=OSC1 Pin=Y2-2
+Added Pin To Net: NetName=PGC3 Pin=R17-2
+Added Net: Name=PGC3
+Added Pin To Net: NetName=PGD3 Pin=R15-2
+Added Net: Name=PGD3
+Added Member To Class: ClassName=[5] - MICROCONTROLLER Member=Component C17 302010138
+Added Member To Class: ClassName=[5] - MICROCONTROLLER Member=Component R20 301010299
+Added Member To Class: ClassName=[5] - MICROCONTROLLER Member=Component R23 301010088
+Added Member To Class: ClassName=[5] - MICROCONTROLLER Member=Component SW1 311020017
+Added Member To Class: ClassName=[3] - CONNECTIVITY Member=Component Y1 Abracon ABM3B-16.000MHZ-10-1-U-T
+Added Member To Class: ClassName=[5] - MICROCONTROLLER Member=Component Y1 306010054
+Added Member To Class: ClassName=[5] - MICROCONTROLLER Member=Component Y2 306010014
+Added Room: Name=[0] - COVER PAGE
+Added Room: Name=[3] - CONNECTIVITY
+Added Room: Name=[4] - DRIVERS
+Added Room: Name=[5] - MICROCONTROLLER

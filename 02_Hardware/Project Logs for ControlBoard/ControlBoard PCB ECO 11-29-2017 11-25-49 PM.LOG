@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=uC.EncoderD.1 Pin=R93-2
+Removed Pin From Net: NetName=uC.EncoderD.1 Pin=R95-2
+Removed Pin From Net: NetName=uC.EncoderD.2 Pin=R97-2
+Removed Pin From Net: NetName=uC.EncoderD.2 Pin=R98-2
+Added Pin To Net: NetName=uC.EncoderD.2 Pin=R93-2
+Added Pin To Net: NetName=uC.EncoderD.2 Pin=R95-2
+Added Pin To Net: NetName=uC.EncoderD.1 Pin=R97-2
+Added Pin To Net: NetName=uC.EncoderD.1 Pin=R98-2

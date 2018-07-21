@@ -1,0 +1,148 @@
+Removed Member From Class: ClassName=Designator Member=U4
+Added Component: Designator=C47(C0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "MPN"; Value = "CC0603KRX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "value"; Value = "100NF-50V"; VariantName = "[No Variations]"
+Added Component: Designator=C48(C0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "MPN"; Value = "CC0603KRX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "value"; Value = "100NF-50V"; VariantName = "[No Variations]"
+Added Component: Designator=CN1(H6-2.54)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "MPN"; Value = "F185-1106A1BSYC1"; VariantName = "[No Variations]"
+Added Component: Designator=J1(H2-3.5-7.0X7.0MM)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J2(H2-3.5-7.0X7.0MM)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J3(H2-3.5-7.0X7.0MM)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J4(H2-3.5-7.0X7.0MM)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R58(R0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "MPN"; Value = "RC0603JR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R59(R0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "MPN"; Value = "RC0603JR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R60(R0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "MPN"; Value = "RC0603JR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R61(R0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "MPN"; Value = "RC0603JR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R62(R0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "MPN"; Value = "RC0603JR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R63(R0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "MPN"; Value = "RC0603JR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R64(R0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "MPN"; Value = "RC0603JR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R65(R0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "MPN"; Value = "RC0603JR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "value"; Value = "10k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=RESET Pin=CN1-1
+Added Pin To Net: NetName=+3.3V Pin=CN1-2
+Added Pin To Net: NetName=GND Pin=CN1-3
+Added Pin To Net: NetName=PGD3 Pin=CN1-4
+Added Pin To Net: NetName=PGC3 Pin=CN1-5
+Added Pin To Net: NetName=OUTB.1 Pin=J1-1
+Added Pin To Net: NetName=OUTB.2 Pin=J1-2
+Added Pin To Net: NetName=OUTA.2 Pin=J2-1
+Added Pin To Net: NetName=OUTA.1 Pin=J2-2
+Added Pin To Net: NetName=OUTC.2 Pin=J3-1
+Added Pin To Net: NetName=OUTC.1 Pin=J3-2
+Added Pin To Net: NetName=OUTD.1 Pin=J4-1
+Added Pin To Net: NetName=OUTD.2 Pin=J4-2
+Added Pin To Net: NetName=MotorEnableA Pin=R58-1
+Added Pin To Net: NetName=+5V Pin=R58-2
+Added Pin To Net: NetName=MotorEnableB Pin=R59-1
+Added Pin To Net: NetName=+5V Pin=R59-2
+Added Pin To Net: NetName=MotorEnableC Pin=R60-1
+Added Pin To Net: NetName=+5V Pin=R60-2
+Added Pin To Net: NetName=MotorEnableD Pin=R61-1
+Added Pin To Net: NetName=+5V Pin=R61-2
+Added Pin To Net: NetName=GND Pin=R62-1
+Added Pin To Net: NetName=MotorEnableA Pin=R62-2
+Added Pin To Net: NetName=GND Pin=R63-1
+Added Pin To Net: NetName=MotorEnableB Pin=R63-2
+Added Pin To Net: NetName=GND Pin=R64-1
+Added Pin To Net: NetName=MotorEnableC Pin=R64-2
+Added Pin To Net: NetName=GND Pin=R65-1
+Added Pin To Net: NetName=MotorEnableD Pin=R65-2
+Change Net Name : Old Net Name=OUTA.1 New Net Name=NetD1_+
+Change Net Name : Old Net Name=OUTA.2 New Net Name=NetD2_+
+Change Net Name : Old Net Name=OUTB.1 New Net Name=NetD4_+
+Change Net Name : Old Net Name=OUTB.2 New Net Name=NetD3_+
+Change Net Name : Old Net Name=OUTC.1 New Net Name=NetD9_+
+Change Net Name : Old Net Name=OUTC.2 New Net Name=NetD10_+
+Change Net Name : Old Net Name=OUTD.1 New Net Name=NetD12_+
+Change Net Name : Old Net Name=OUTD.2 New Net Name=NetD11_+
+Added Member To Class: ClassName=Designator Member=Component C23 302010138
+Added Member To Class: ClassName=Designator Member=Component C24 302010138
+Added Member To Class: ClassName=Designator Member=Component C25 302010138
+Added Member To Class: ClassName=Designator Member=Component C26 302010138
+Added Member To Class: ClassName=Designator Member=Component C27 302010138
+Added Member To Class: ClassName=Designator Member=Component C28 302010138
+Added Member To Class: ClassName=Designator Member=Component C29 302030059
+Added Member To Class: ClassName=Designator Member=Component C30 302030059
+Added Member To Class: ClassName=Designator Member=Component C31 302010138
+Added Member To Class: ClassName=Designator Member=Component C32 302010138
+Added Member To Class: ClassName=Designator Member=Component C33 302010138
+Added Member To Class: ClassName=Designator Member=Component C34 302010138
+Added Member To Class: ClassName=Designator Member=Component C35 302010138
+Added Member To Class: ClassName=Designator Member=Component C36 302010138
+Added Member To Class: ClassName=Designator Member=Component C37 302030059
+Added Member To Class: ClassName=Designator Member=Component C38 302030059
+Added Member To Class: ClassName=Designator Member=Component C39 302010138
+Added Member To Class: ClassName=Designator Member=Component C40 302010138
+Added Member To Class: ClassName=Designator Member=Component C41 302010138
+Added Member To Class: ClassName=Designator Member=Component C42 302010138
+Added Member To Class: ClassName=Designator Member=Component C43 302010138
+Added Member To Class: ClassName=Designator Member=Component C44 302010138
+Added Member To Class: ClassName=Designator Member=Component C45 302030059
+Added Member To Class: ClassName=Designator Member=Component C46 302030059
+Added Member To Class: ClassName=Designator Member=Component C47 302010138
+Added Member To Class: ClassName=Designator Member=Component C48 302010138
+Added Member To Class: ClassName=uC Member=Component CN1 320030060
+Added Member To Class: ClassName=Designator Member=Component D17 304020021
+Added Member To Class: ClassName=Designator Member=Component D18 304020021
+Added Member To Class: ClassName=Designator Member=Component D19 304020021
+Added Member To Class: ClassName=Designator Member=Component DC1 320120003
+Added Member To Class: ClassName=Driver Member=Component J1 320110028
+Added Member To Class: ClassName=Driver Member=Component J2 320110028
+Added Member To Class: ClassName=Driver Member=Component J3 320110028
+Added Member To Class: ClassName=Driver Member=Component J4 320110028
+Added Member To Class: ClassName=Designator Member=Component L1 303010016
+Added Member To Class: ClassName=Designator Member=Component L2 303010016
+Added Member To Class: ClassName=Designator Member=Component R48 301010293
+Added Member To Class: ClassName=Designator Member=Component R49 301010299
+Added Member To Class: ClassName=Designator Member=Component R50 301010170
+Added Member To Class: ClassName=Designator Member=Component R51 301010300
+Added Member To Class: ClassName=Designator Member=Component R52 301010293
+Added Member To Class: ClassName=Designator Member=Component R53 301010221
+Added Member To Class: ClassName=Designator Member=Component R54 301010293
+Added Member To Class: ClassName=Designator Member=Component R55 301010299
+Added Member To Class: ClassName=Designator Member=Component R56 301010293
+Added Member To Class: ClassName=Designator Member=Component R57 301010170
+Added Member To Class: ClassName=Driver Member=Component R58 301010293
+Added Member To Class: ClassName=Driver Member=Component R59 301010293
+Added Member To Class: ClassName=Driver Member=Component R60 301010293
+Added Member To Class: ClassName=Driver Member=Component R61 301010293
+Added Member To Class: ClassName=Driver Member=Component R62 301010293
+Added Member To Class: ClassName=Driver Member=Component R63 301010293
+Added Member To Class: ClassName=Driver Member=Component R64 301010293
+Added Member To Class: ClassName=Driver Member=Component R65 301010293
+Added Member To Class: ClassName=Designator Member=Component U6 TD1410
+Added Member To Class: ClassName=Designator Member=Component U7 TD1410
+Added Room: Name=Cover
+Added Room: Name=Designator

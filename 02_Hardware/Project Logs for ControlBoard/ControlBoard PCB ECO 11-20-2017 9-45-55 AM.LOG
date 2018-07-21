@@ -1,0 +1,119 @@
+Removed Pin From Net: NetName=GND Pin=R78-1
+Removed Pin From Net: NetName=uC.EncoderB.1 Pin=R78-2
+Removed Pin From Net: NetName=+3.3V Pin=R81-1
+Removed Pin From Net: NetName=NetCN3_1 Pin=R81-2
+Removed Pin From Net: NetName=GND Pin=R88-1
+Removed Pin From Net: NetName=uC.EncoderD.1 Pin=R88-2
+Removed Pin From Net: NetName=GND Pin=R90-1
+Removed Pin From Net: NetName=uC.EncoderC.2 Pin=R90-2
+Removed Pin From Net: NetName=+3.3V Pin=R91-1
+Removed Pin From Net: NetName=NetCN5_1 Pin=R91-2
+Removed Pin From Net: NetName=uC.EncoderD.1 Pin=R92-2
+Removed Pin From Net: NetName=+3.3V Pin=R93-1
+Removed Pin From Net: NetName=NetCN8_1 Pin=R93-2
+Removed Pin From Net: NetName=uC.EncoderD.2 Pin=R95-2
+Removed Pin From Net: NetName=uC.EncoderC.1 Pin=R96-2
+Removed Pin From Net: NetName=GND Pin=R97-1
+Removed Pin From Net: NetName=uC.EncoderC.1 Pin=R98-2
+Change Component Comment : Designator=R78 Old Comment=301010221 New Comment=301010292
+Change Component Comment : Designator=R88 Old Comment=301010221 New Comment=301010292
+Change Component Comment : Designator=R90 Old Comment=301010221 New Comment=301010292
+Change Component Comment : Designator=R97 Old Comment=301010221 New Comment=301010298
+Change Component Comment : Designator=R81 Old Comment=301010292 New Comment=301010221
+Change Component Comment : Designator=R91 Old Comment=301010292 New Comment=301010221
+Change Component Comment : Designator=R93 Old Comment=301010292 New Comment=301010221
+Change Component Comment : Designator=R96 Old Comment=301010298 New Comment=301010221
+Change component parameters: Designator = "R78"; Footprint = "R0603"; UniqueID = "\FKGELBWU\DUNAQQMY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "MPN"; Value = "RC0603JR-070RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "0R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R81"; Footprint = "R0603"; UniqueID = "\FKGELBWU\FKKUISIT"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "MPN"; Value = "RC0603FR-072KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "2k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R88"; Footprint = "R0603"; UniqueID = "\FKGELBWU\BYFEFISS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "MPN"; Value = "RC0603JR-070RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "0R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R90"; Footprint = "R0603"; UniqueID = "\FKGELBWU\BIDITRFU"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "MPN"; Value = "RC0603JR-070RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "0R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R91"; Footprint = "R0603"; UniqueID = "\FKGELBWU\NNREULPF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "MPN"; Value = "RC0603FR-072KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "2k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R93"; Footprint = "R0603"; UniqueID = "\FKGELBWU\JGCPAXHI"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "MPN"; Value = "RC0603FR-072KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "2k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R96"; Footprint = "R0603"; UniqueID = "\FKGELBWU\WDDICLQA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "MPN"; Value = "RC0603FR-072KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "2k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R97"; Footprint = "R0603"; UniqueID = "\FKGELBWU\HGBRMWWN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "MPN"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "1k"; VariantName = "[No Variations]"
+Added Component: Designator=CN3(H6-2.54)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "MPN"; Value = "F185-1106A1BSYC1"; VariantName = "[No Variations]"
+Added Component: Designator=CN5(H6-2.54)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "MPN"; Value = "F185-1106A1BSYC1"; VariantName = "[No Variations]"
+Added Component: Designator=CN8(H6-2.54)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "MPN"; Value = "F185-1106A1BSYC1"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetCN3_1 Pin=CN3-1
+Added Pin To Net: NetName=GND Pin=CN3-2
+Added Pin To Net: NetName=OUTA.1 Pin=CN3-5
+Added Pin To Net: NetName=OUTA.2 Pin=CN3-6
+Added Pin To Net: NetName=NetCN5_1 Pin=CN5-1
+Added Pin To Net: NetName=GND Pin=CN5-2
+Added Pin To Net: NetName=OUTA.1 Pin=CN5-5
+Added Pin To Net: NetName=OUTA.2 Pin=CN5-6
+Added Pin To Net: NetName=NetCN8_1 Pin=CN8-1
+Added Pin To Net: NetName=GND Pin=CN8-2
+Added Pin To Net: NetName=OUTA.1 Pin=CN8-5
+Added Pin To Net: NetName=OUTA.2 Pin=CN8-6
+Added Pin To Net: NetName=+3.3V Pin=R78-1
+Added Pin To Net: NetName=NetCN3_1 Pin=R78-2
+Added Pin To Net: NetName=GND Pin=R81-1
+Added Pin To Net: NetName=uC.EncoderB.1 Pin=R81-2
+Added Pin To Net: NetName=+3.3V Pin=R88-1
+Added Pin To Net: NetName=NetCN5_1 Pin=R88-2
+Added Pin To Net: NetName=+3.3V Pin=R90-1
+Added Pin To Net: NetName=NetCN8_1 Pin=R90-2
+Added Pin To Net: NetName=GND Pin=R91-1
+Added Pin To Net: NetName=uC.EncoderC.1 Pin=R91-2
+Added Pin To Net: NetName=uC.EncoderC.1 Pin=R92-2
+Added Pin To Net: NetName=GND Pin=R93-1
+Added Pin To Net: NetName=uC.EncoderD.1 Pin=R93-2
+Added Pin To Net: NetName=uC.EncoderD.1 Pin=R95-2
+Added Pin To Net: NetName=GND Pin=R96-1
+Added Pin To Net: NetName=uC.EncoderC.2 Pin=R96-2
+Added Pin To Net: NetName=uC.EncoderD.2 Pin=R98-2
+Added Pin To Net: NetName=NetCN3_3 Pin=CN3-3
+Added Pin To Net: NetName=NetCN3_3 Pin=R82-1
+Added Net: Name=NetCN3_3
+Added Pin To Net: NetName=NetCN3_4 Pin=CN3-4
+Added Pin To Net: NetName=NetCN3_4 Pin=R84-1
+Added Net: Name=NetCN3_4
+Added Pin To Net: NetName=NetCN5_3 Pin=CN5-3
+Added Pin To Net: NetName=NetCN5_3 Pin=R92-1
+Added Net: Name=NetCN5_3
+Added Pin To Net: NetName=NetCN5_4 Pin=CN5-4
+Added Pin To Net: NetName=NetCN5_4 Pin=R94-1
+Added Net: Name=NetCN5_4
+Added Pin To Net: NetName=NetCN8_3 Pin=CN8-3
+Added Pin To Net: NetName=NetCN8_3 Pin=R95-1
+Added Net: Name=NetCN8_3
+Added Pin To Net: NetName=NetCN8_4 Pin=CN8-4
+Added Pin To Net: NetName=NetCN8_4 Pin=R97-1
+Added Net: Name=NetCN8_4
+Added Member To Class: ClassName=Driver Member=Component CN3 320030060
+Added Member To Class: ClassName=Driver Member=Component CN5 320030060
+Added Member To Class: ClassName=Driver Member=Component CN8 320030060
+Added Room: Name=[1] - CONTROL BOARD
+Added Room: Name=Communications
+Added Room: Name=USB

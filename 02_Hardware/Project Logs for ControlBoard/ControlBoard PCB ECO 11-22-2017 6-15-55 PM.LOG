@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=uC.PWMA.2 Pin=R45-2
+Removed Pin From Net: NetName=uC.PWMA.1 Pin=R47-2
+Added Pin To Net: NetName=uC.PWMA.1 Pin=R45-2
+Added Pin To Net: NetName=uC.PWMA.2 Pin=R47-2

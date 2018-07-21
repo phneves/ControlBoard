@@ -1,0 +1,12 @@
+Board Information Report
+Filename     : C:\Users\pneves\Documents\Gear Labs\04_Projects\03_ControlBoard\trunk\02_Hardware\01_Sources\ControlBoard.PcbDoc
+Date         : 7/1/2018
+Time         : 1:30:04 PM
+Time Elapsed : 00:00:00
+
+Routing Information
+    Routing completion, 99.50%
+    Connections, 401
+    Connections routed, 399
+    Connections remaining, 2
+count : 4

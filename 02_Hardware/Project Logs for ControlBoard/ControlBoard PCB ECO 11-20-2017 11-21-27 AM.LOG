@@ -1,0 +1,49 @@
+Removed Pin From Net: NetName=OUTA.1 Pin=CN3-5
+Removed Pin From Net: NetName=OUTA.2 Pin=CN3-6
+Removed Pin From Net: NetName=OUTA.1 Pin=CN5-5
+Removed Pin From Net: NetName=OUTA.2 Pin=CN5-6
+Removed Pin From Net: NetName=OUTA.1 Pin=CN8-5
+Removed Pin From Net: NetName=OUTA.2 Pin=CN8-6
+Removed Member From Class: ClassName=Communications Member=CN8
+Added Component: Designator=CN9(H6-2.54)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "MPN"; Value = "F185-1106A1BSYC1"; VariantName = "[No Variations]"
+Added Component: Designator=R105(R0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "MPN"; Value = "RC0603JR-070RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "value"; Value = "0R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "RC0603JR-070RL"; VariantName = "A"
+Add component (AddParameter): Name = "value"; Value = "0R"; VariantName = "A"
+Added Component: Designator=R106(R0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "MPN"; Value = "RC0603JR-070RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "value"; Value = "0R"; VariantName = "[No Variations]"
+Added Component: Designator=R107(R0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "MPN"; Value = "RC0603JR-070RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "value"; Value = "0R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=OUTB.1 Pin=CN3-5
+Added Pin To Net: NetName=OUTB.2 Pin=CN3-6
+Added Pin To Net: NetName=OUTC.1 Pin=CN5-5
+Added Pin To Net: NetName=OUTC.2 Pin=CN5-6
+Added Pin To Net: NetName=OUTD.1 Pin=CN8-5
+Added Pin To Net: NetName=OUTD.2 Pin=CN8-6
+Added Pin To Net: NetName=+3.3V Pin=CN9-1
+Added Pin To Net: NetName=NetCN9_6 Pin=CN9-3
+Added Pin To Net: NetName=NetCN9_1 Pin=CN9-4
+Added Pin To Net: NetName=NetCN9_1 Pin=R105-1
+Added Pin To Net: NetName=GND Pin=R106-1
+Added Pin To Net: NetName=GND Pin=R107-1
+Change Net Name : Old Net Name=NetCN9_1 New Net Name=I2C.SDA
+Change Net Name : Old Net Name=NetCN9_6 New Net Name=I2C.SCL
+Added Pin To Net: NetName=NetCN9_2 Pin=CN9-2
+Added Pin To Net: NetName=NetCN9_2 Pin=R105-2
+Added Pin To Net: NetName=NetCN9_2 Pin=R106-2
+Added Net: Name=NetCN9_2
+Added Pin To Net: NetName=NetCN9_6 Pin=CN9-6
+Added Pin To Net: NetName=NetCN9_6 Pin=R107-2
+Added Net: Name=NetCN9_6
+Added Member To Class: ClassName=Communications Member=Component CN9 320030060
+Added Member To Class: ClassName=Communications Member=Component R105 301010292
+Added Member To Class: ClassName=Communications Member=Component R106 301010292
+Added Member To Class: ClassName=Communications Member=Component R107 301010292
